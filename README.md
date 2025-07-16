@@ -20,14 +20,7 @@ A minimal real-time chat app built with **vanilla WebSocket** (`ws`), **Node.js*
 
 ## 🚀 Getting Started
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/your-username/pure-ws-chat.git
-cd pure-ws-chat
-```
-
-### 2. Start backend
+### 1. Start backend
 
 ```bash
 cd backend
@@ -37,7 +30,7 @@ npm run dev
 
 > The backend will run on `http://localhost:3001`
 
-### 3. Start frontend
+### 2. Start frontend
 
 ```bash
 cd frontend
